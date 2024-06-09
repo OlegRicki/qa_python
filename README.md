@@ -1,1 +1,23 @@
 # qa_python
+
+1.test_add_new_book_add_two_books
+
+2.test_add_new_book_add_book_with_max_and_min_number_characters
+
+3.test_test_add_new_book_add_one_book_twice
+
+4.test_set_book_genre_and_two_genre
+
+5.test_set_book_genre_when_genre_not_listed
+
+6.test_get_book_genre_when_one_book
+
+7.test_get_books_with_specific_genre_with_genre_horror
+
+8.test_get_books_for_children
+
+9.test_add_book_in_favorites_one_book
+
+10.test_add_book_in_favorites_one_book_twice
+
+11.test_delete_book_from_favorites_all_books
